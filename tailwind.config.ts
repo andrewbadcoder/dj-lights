@@ -16,7 +16,7 @@ const config: Config = {
         // This sets the default font (font-sans) to Inter
         sans: ['var(--font-inter)'], 
         // Add elegant font
-        elegant: ['var(--font-dancing-script)'], 
+        'dancing-script': ['var(--font-dancing-script)'], 
       },
     },
   },

@@ -21,7 +21,7 @@ export default function Home() {
       <div className="text-center px-4 max-w-3xl mx-auto relative z-10">
         
         {/* Header using your custom festive font */}
-        <h1 className="text-5xl md:text-6xl font-elegant text-amber-400 mb-6 drop-shadow-lg">
+        <h1 className="text-5xl md:text-6xl font-dancer text-amber-400 mb-6 drop-shadow-lg">
           DJ Lights | Bay Area, CA
         </h1>
         

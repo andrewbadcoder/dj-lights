@@ -26,10 +26,9 @@ export default function Home() {
         </h1>
         
         <p className="text-xl text-slate-100 mb-8 leading-relaxed drop-shadow-md">
-          The premier all-inclusive Christmas light service. 
-          We <strong>design</strong>, <strong>install</strong>, <strong>maintain</strong>, and <strong>store</strong> your display. 
+          Holiday lights installation and takedown services. 
+          We <strong></strong>, <strong>install</strong> and <strong>takedown</strong>, and <strong>store</strong> your display. 
           <br className="hidden md:block" />
-          You handle the hot cocoa, we handle the heights.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
